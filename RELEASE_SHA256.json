@@ -1,0 +1,12 @@
+{
+  "release_sha256": "59d905f488cb005ce1f0f86038c2bd5027607dbd3773783e2a8ea85dd599b7a9",
+  "classic_original_sha256": "9c3a684d800daf35e8dd6c69a64da3a651507ac7c4ac8e4490f21f5dddf88d9c",
+  "new_version": "3.0",
+  "classic_version": "2.0",
+  "replay_protection": true,
+  "loop": false,
+  "new_window": [
+    920,
+    900
+  ]
+}
